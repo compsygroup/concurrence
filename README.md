@@ -1,2 +1,2 @@
 # concurrence
-Source code and example data for the concurrence method
+Synthetic data used in the publication
